@@ -11,8 +11,10 @@ features:
 - Better Display on Touch Devices
 - SEO elements tweak
 
-Live Version at Astro-studio Netlify.
+Live Version at https://getir-remake.netlify.app/
 Full Code at Astro-studio Github.
+
+
 
 
 
